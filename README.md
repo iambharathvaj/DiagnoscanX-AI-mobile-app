@@ -25,3 +25,7 @@ Single codebase to build both Android and iOS apps using Flutter (Dart language)
 
 ## Future improvements / ideas
 To make our image classifier free from Adversarial attacks (for example, FGSM attack) - Need to build a defense mechanism
+
+## DiagnoscanX mobile app - test image
+
+![](DiagnoscanX-mobile-app-image.png)
