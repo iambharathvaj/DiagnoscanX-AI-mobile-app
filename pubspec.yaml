@@ -1,0 +1,19 @@
+name: stripe_payment
+description: A Flutter plugin to integrate the stripe plugin for iOS and Android. Currently only adding a credit card as payment method is implemented.
+version: 0.3.2
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  plugin:
+    androidPackage: de.jonasbark.stripepayment
+    pluginClass: StripePaymentPlugin
